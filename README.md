@@ -17,3 +17,7 @@ Hi, I'm George, a Computer Science Student at the Babes Bolyai University in Clu
 <a href= "https://wa.link/5uk7qr" >
   <img src="Photos/whats.png" width="auto" height="40px" />
 </a>
+
+# Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeDanicico)](https://github.com/anuraghazra/github-readme-stats)
