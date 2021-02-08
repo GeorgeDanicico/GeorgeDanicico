@@ -24,6 +24,6 @@ Hi, I'm George, a Computer Science Student at the Babes Bolyai University in Clu
 
 # Repositories
 <a href= "https://github.com/GeorgeDanicico/University">
- <img src= "[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgeDanicico&repo=University)](https://github.com/anuraghazra/github-readme-stats)" />
+ <img src= [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgeDanicico&repo=University)](https://github.com/anuraghazra/github-readme-stats)/>
 </a>
 
