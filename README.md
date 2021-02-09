@@ -30,5 +30,5 @@ Hi, I'm George, a Computer Science Student at the Babes Bolyai University in Clu
 </a>
 
 <a href= "https://github.com/GeorgeDanicico/Small-projects">
- <img src= "https://github-readme-stats.vercel.app/api/pin/?username=GeorgeDanicico&repo=Small-projects"/>
+ <img src= />
 </a>
