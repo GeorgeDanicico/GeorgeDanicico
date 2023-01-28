@@ -25,7 +25,7 @@ Hi, I'm George, a Computer Science Student at the Babes Bolyai University in Clu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeDanicico&layout=compact&exclude_repo=Thesis)](https://github.com/anuraghazra/github-readme-stats)
 
 # Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgeDanicico&repo=University)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgeDanicico&repo=university)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgeDanicico&repo=Small-Projects)](https://github.com/anuraghazra/github-readme-stats)
 
