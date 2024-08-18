@@ -1,5 +1,7 @@
 # About me
-Hi, I'm George, a Computer Science Student at the Babes Bolyai University in Cluj Napoca. Besides working with the computer, I like to play basketball and also to ski.
+Hi, I'm George, a Junior Software Engineer at Betfair Romania Development in Cluj Napoca. I completed a Bachelor Degree in Computer Science at the Babes Bolyai University and I currently pursue a Master's Degree in Databases.
+
+Besides working with the computer, I like to play basketball and also to ski.
 
 # How to reach me
 <a href= "https://www.linkedin.com/in/danicico-george-8107031ba/" >
