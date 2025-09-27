@@ -1,7 +1,7 @@
 # About me
-Hi, I'm George, a Junior Software Engineer at Betfair Romania Development in Cluj Napoca. I completed a Bachelor Degree in Computer Science at the Babes Bolyai University and I currently pursue a Master's Degree in Databases.
+I’m a Software Engineer at Betfair Romania Development in Cluj-Napoca. I earned my Bachelor’s degree in Computer Science in 2023 from Babeș-Bolyai University, and I recently completed my Master’s in Databases in 2025. In my current role, I mainly work with Java technologies—including Quarkus and Spring Boot—and have experience integrating CI/CD pipelines using Jenkins.
 
-Besides working with the computer, I like to play basketball and also to ski.
+I’m a dedicated team player who adapts quickly to new challenges and works well in collaborative environments. I pride myself on clear, effective communication and strive to build consensus and align on direction in every project.
 
 # How to reach me
 <a href= "https://www.linkedin.com/in/danicico-george-8107031ba/" >
